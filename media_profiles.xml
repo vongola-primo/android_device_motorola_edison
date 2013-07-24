@@ -345,7 +345,7 @@
                    channels="2" />
 
         </EncoderProfile>
--->
+
         <EncoderProfile quality="480p" fileFormat="mp4" duration="30">
              <Video codec="m4v"
                     bitRate="6000000"
@@ -358,7 +358,7 @@
                     sampleRate="44100"
                     channels="2" />
         </EncoderProfile>
-<!--
+-->
         <EncoderProfile quality="vga" fileFormat="mp4" duration="30">
              <Video codec="h264"
                     bitRate="4000000"
@@ -372,6 +372,7 @@
                     channels="2" />
          </EncoderProfile>
 
+<!--
         <EncoderProfile quality="cif" fileFormat="mp4" duration="30">
              <Video codec="h264"
                     bitRate="1500000"
