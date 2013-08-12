@@ -16,7 +16,7 @@ PRODUCT_LOCALES := en_US de_DE zh_CN zh_TW cs_CZ nl_BE nl_NL en_AU en_GB en_CA e
 #
 # Setup device specific product configuration.
 #
-PRODUCT_NAME := cm_edison
+PRODUCT_NAME := carbon_edison
 PRODUCT_BRAND := ATT
 PRODUCT_DEVICE := edison
 PRODUCT_MODEL := MB865
